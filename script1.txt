@@ -14,5 +14,3 @@ Original memo. Changed things a lot. Totally different from the current version.
 2018/12/4 Git revert is really really difficult to understand.
 
 Master change.
-
-One more master change.
