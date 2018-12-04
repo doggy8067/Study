@@ -16,5 +16,3 @@ Original memo. Changed things a lot. Totally different from the current version.
 Master change.
 
 ALmost getting it///
-
-The last test for today.
